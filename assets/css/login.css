@@ -1,0 +1,41 @@
+form{
+    width: 250px;
+    margin-left: 20%;
+    margin-top: 100px;
+    padding-top: 0%;
+    padding-right: 0%;
+    background-color: rgb(247, 231, 224);
+}
+
+a{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 15px;
+    padding: 10px;
+    text-decoration: none;
+    color:rgb(187, 14, 14);
+    
+}
+
+a:hover{
+    color: rgb(114, 112, 112);
+    text-decoration: none;
+}
+
+.row.login{
+    text-align: center;
+}
+
+
+button{
+    background-color: rgb(253, 179, 150);
+    border: solid 1px;
+    border-radius: 3px;
+}
+
+input{
+    border-radius: 3px;
+}
+
+label{
+    font-family: 'Josefin Sans', sans-serif;
+}
